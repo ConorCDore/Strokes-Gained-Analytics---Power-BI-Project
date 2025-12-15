@@ -112,9 +112,9 @@ Features:
   * Average player SG (qualified)
   * Top‑10 average SG (qualified)
 
-Insights:
+Insight:
 
-> Elite players separate meaningfully from the field even as sample requirements increase.
+> Elite performers separate meaningfully from the field even as sample requirements increase.
 > Average player SG (Qualified) increases as minimum event threshold is raised
 ---
 
@@ -148,7 +148,7 @@ Features:
   * R² (relationship strength)
   * Slope (effect size per +1 SG)
 
-Insights:
+Insight:
 
 > Different skills contribute differently to consistency; relationship strength and effect size vary meaningfully by component.
 > Across the evaluated skills, SG Approach (iron play) shows the strongest relationship with cut consistency.
