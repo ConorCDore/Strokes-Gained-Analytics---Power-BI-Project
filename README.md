@@ -14,6 +14,19 @@ Target audience: Business Intelligence / Analytics roles (sports, media, or gene
 
 ---
 
+## Dashboard Preview
+
+### Player SG Leaderboard
+![Player SG Leaderboard](images/leaderboard.png)
+
+### Cut Performance
+![Cut Performance](images/cut_performance.png)
+
+### SG Components vs Cut Percentage
+![SG Components vs Cut %](images/sg_components.png)
+
+---
+
 ## Key Questions
 
 * Who are the top performers by average Strokes Gained?
