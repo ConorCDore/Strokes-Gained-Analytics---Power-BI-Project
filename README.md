@@ -1,4 +1,4 @@
-# Strokes-Gained-Analytic - Power-BI-Project
+# Strokes Gained Analytics: Power BI Project
 
 ## Overview
 
